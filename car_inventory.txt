@@ -1,0 +1,11 @@
+1,2002,Nissan,SILVIA spec-R Aero (S15),Blue,I4,Manual,25000.00,false
+2,2005,Toyota,Corolla,White,I4,Automatic,15000.00,false
+3,2010,Ford,Mustang,Red,V8,Manual,30000.00,false
+4,2015,Honda,Accord,Silver,V6,Automatic,20000.00,false
+5,2018,Chevrolet,Camaro,Black,V8,Manual,35000.00,false
+6,2020,Toyota,RAV4,Green,I4,Automatic,25000.00,false
+7,2019,Ford,Focus,Blue,I4,Automatic,30000.00,false
+8,2017,BMW,3 Series,Blue,I6,Automatic,40000.00,false
+9,2023,Mercedes-Benz,C-Class,White,V6,Automatic,50000.00,false
+10,2016,Audi,A4,Gray,I4,Automatic,35000.00,false
+11,2021,Subaru,WRX,Black,F4,Automatic,40000.00,false
